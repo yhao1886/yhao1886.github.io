@@ -1,4 +1,5 @@
 [作业一](https://yhao1886.github.io/swsad/homework1.html "作业一")
+[作业二](https://yhao1886.github.io/swsad/homework2.html "作业二")
 
 ## Welcome to GitHub Pages
 
