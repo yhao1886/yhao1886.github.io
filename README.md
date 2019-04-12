@@ -1,6 +1,7 @@
 * [第一周作业](https://yhao1886.github.io/swsad/homework1.html "第一周作业")
 * [第二周作业](https://yhao1886.github.io/swsad/homework2.html "第二周作业")
 * [第三周作业](https://yhao1886.github.io/swsad/homework3.html "第三周作业")
+* [第六周作业](https://yhao1886.github.io/swsad/homework6.html "第六周作业")
 
 ## Welcome to GitHub Pages
 
