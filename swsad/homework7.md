@@ -4,7 +4,7 @@
 
    - 绘制用例图模型（到子用例）
 
-     ![2](https://github.com/yhao1886/yhao1886.github.io/blob/master/swsad/picture/2.PNG?raw=true)
+     ![](https://github.com/yhao1886/yhao1886.github.io/blob/master/swsad/picture/2.PNG?raw=true)
 
    - 给出 make reservation 用例的活动图
 
